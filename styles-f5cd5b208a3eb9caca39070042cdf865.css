@@ -73,20 +73,25 @@
       margin-left: 10px;
       cursor: pointer; }
 .bookmarks_2Wcyv {
-  position: fixed;
-  right: 0;
-  top: 150px;
   width: 400px;
-  margin-right: 0px; }
+  margin-top: 20px; }
+  .bookmarks_2Wcyv .caption_1rXlF {
+    position: absolute;
+    color: wheat;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 1px grey, 0 2px 14px black;
+    margin: 65px 0 0 120px; }
+  .bookmarks_2Wcyv .caption_1rXlF + .group_3mtmg {
+    height: 244px;
+    padding-top: 110px;
+    background: url(/assets/bookmarkstop.png); }
   .bookmarks_2Wcyv .group_3mtmg {
     height: 139px;
     display: flex;
     padding-top: 5px;
     background: url(/assets/bookmarksextent.png); }
-    .bookmarks_2Wcyv .group_3mtmg:first-child {
-      height: 244px;
-      padding-top: 110px;
-      background: url(/assets/bookmarkstop.png); }
     .bookmarks_2Wcyv .group_3mtmg .bookmark_2wu0g {
       width: 100px;
       height: 100px;
@@ -121,17 +126,6 @@
           margin-top: -15px;
           font-size: 24px;
           cursor: pointer; }
-  .bookmarks_2Wcyv .caption_1rXlF {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 67px;
-    color: wheat;
-    font-size: 32px;
-    font-weight: bold;
-    text-align: center;
-    text-shadow: 0 1px grey, 0 2px 14px black;
-    margin-left: 70px; }
 @keyframes spinner_FywMA {
   0% {
     transform: rotate(0deg); }
