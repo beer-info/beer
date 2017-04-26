@@ -1,11 +1,11 @@
 {
   "assetsByChunkName": {
     "app": [
-      "app-4aa8a6084dc4db42a93b.js",
+      "app-1053d25dda9d474c177a.js",
       "styles-447498a8b826dd824d326198e378bf54.css"
     ],
-    "frameworks": "frameworks-4aa8a6084dc4db42a93b.js"
+    "frameworks": "frameworks-1053d25dda9d474c177a.js"
   },
-  "BUILD_HASH": "4aa8a6084dc4db42a93b",
+  "BUILD_HASH": "1053d25dda9d474c177a",
   "BUILD_VERSION": "1.0.0"
 }
